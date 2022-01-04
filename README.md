@@ -8,7 +8,7 @@ Responsive Design in Flutter
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Habibul33454718)
 [![instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/hkflutter/)
 
-## Packeges Used 
+## Packages Used 
 
 Add these dependencies in Puspec.ymal  File.
 
