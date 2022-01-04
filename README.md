@@ -13,14 +13,10 @@ Responsive Design in Flutter
 Add these dependencies in Puspec.ymal  File.
 
 ```bash
-  animated_text_kit: ^4.2.1
-  firebase_core: ^1.10.6
-  firebase_auth: ^3.3.4
-  cloud_firestore: ^3.1.5
-  flutter_progress_hud: ^2.0.0
-  modal_progress_hud_nsn: ^0.1.0-nullsafety-1
-  awesome_dialog: ^2.1.2
-  ms_undraw: ^3.0.1+1
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.2.0
+  flutter_svg: ^1.0.0
+  font_awesome_flutter: ^9.2.0
 ```
 
 ## Demo Images
