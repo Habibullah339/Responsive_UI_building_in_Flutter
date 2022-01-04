@@ -1,6 +1,6 @@
-# responsive_flutter_design_and_portfolio
+# Responsive_flutter_design_and_portfolio
 
-A new Flutter project.
+Responsive Design in Flutter 
 
 ## Getting Started
 
